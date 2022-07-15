@@ -11,10 +11,10 @@
 
 
 ## CVE && 利用 && EXP && 复现
-| 年份        | ID        | 靶场名称/CVE|   地址  | 
+| 年份        | ID        | 靶场名称/CVE|   类型  | 
 |:----------:|:----------:|:------------- |:------------------- |
 |     2014      |           |       |            |
-|           |     1      |  心脏滴血漏洞(CVE-2014-0160)     |         /CVE/心脏滴血漏洞(CVE-2014-0160)   |
+|           |     1      |  心脏滴血漏洞(CVE-2014-0160)     |        利用： /CVE/心脏滴血漏洞(CVE-2014-0160)   |
 |     2019      |           |       |            |
-|           |     1      |  Django JSONField/HStoreField SQL注入(CVE-2019-14234)     |         /CVE/Django JSONField/HStoreField SQL注入(CVE-2019-14234)   |
+|           |     1      |  Django JSONField/HStoreField SQL注入(CVE-2019-14234)     |         复现：https://juejin.cn/post/7086263713908391944  |
 
