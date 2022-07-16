@@ -16,7 +16,7 @@
 |     2014      |           |       |            |
 |           |     1      |  心脏滴血漏洞(CVE-2014-0160)     |        利用： /CVE/心脏滴血漏洞(CVE-2014-0160)   |
 |     2017      |           |       |            |
-|           |     1      |  Windows COM 特权提升漏洞漏洞(CVE-2017-0213)     |        利用： /CVE/心脏滴血漏洞(CVE-2014-0160)   |
+|           |     1      |  Windows COM 特权提升漏洞漏洞(CVE-2017-0213)     |        利用： /提权/windows/Windows COM 特权提升漏洞漏洞(CVE-2017-0213)   |
 |     2019      |           |       |            |
 |           |     1      |  Django JSONField/HStoreField SQL注入(CVE-2019-14234)     |         复现：https://juejin.cn/post/7086263713908391944  |
 
