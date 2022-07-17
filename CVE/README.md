@@ -1,7 +1,11 @@
 
 # Recurrence of some CVE vulnerabilities
-|  时间   |CVE/名称      |
+|  ID   |CVE/名称      |
 |:---------:|:-------:|
-|  2022/7/15        |   CVE-2014-0160-(心脏滴血漏洞)        |
-|   2022/7/15      |    CVE-2019-14234-(Django JSONField&HStoreField SQL注入)        |
-|   2022/7/17      |    Microsoft Windows HTTP.sys(CVE-2015-1635)        |
+|  1        |   CVE-2014-0160-(心脏滴血漏洞)        |
+|   2      |    CVE-2019-14234-(Django JSONField&HStoreField SQL注入)        |
+|   3      |    Microsoft Windows HTTP.sys(CVE-2015-1635)        |
+|   4      |    Microsoft Windows HTTP.sys(CVE-2015-1635)        |
+|   5     |    Office 远程代码执行漏洞（缓冲区溢出）(CVE-2017-11882 )        |
+
+
