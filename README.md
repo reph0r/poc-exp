@@ -19,6 +19,7 @@
 |           |     1      |  (CVE-2015-1635)Microsoft Windows HTTP.sys     |        利用： /CVE/Microsoft Windows HTTP.sys(CVE-2015-1635)   |
 |     2017      |           |       |            |
 |           |     1      |  Windows COM 特权提升漏洞漏洞(CVE-2017-0213)     |        利用： /提权/windows/Windows COM 特权提升漏洞漏洞(CVE-2017-0213)   |
+|           |     2      |  Office 远程代码执行漏洞（缓冲区溢出）(CVE-2017-11882 )     |        利用： /CVE/Office 远程代码执行漏洞（缓冲区溢出）(CVE-2017-11882 )   |
 |     2019      |           |       |            |
 |           |     1      |  Django JSONField/HStoreField SQL注入(CVE-2019-14234)     |         复现：https://juejin.cn/post/7086263713908391944  |
 
