@@ -7,5 +7,5 @@
 |   3      |    Microsoft Windows HTTP.sys(CVE-2015-1635)        |
 |   4      |    Microsoft Windows HTTP.sys(CVE-2015-1635)        |
 |   5     |    Office 远程代码执行漏洞（缓冲区溢出）(CVE-2017-11882 )        |
-
+|   6     |    CVE-2018-0802栈溢出漏洞      |
 
