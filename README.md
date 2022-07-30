@@ -7,6 +7,7 @@
 | 1          |  pikachu靶场      |https://juejin.cn/post/7119111677383032846  |
 | 2          |  DVWA靶场-low      |  https://juejin.cn/post/7123844618092806152  |
 | 3          |  xss-labs-master靶场      |  https://juejin.cn/post/7122071201068875789  |
+| 4          |  DVWA-Medium&High       |    |
 
 
 
