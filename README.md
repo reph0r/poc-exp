@@ -8,6 +8,7 @@
 | 2          |  DVWA靶场-low      |  https://juejin.cn/post/7123844618092806152  |
 | 3          |  xss-labs-master靶场      |  https://juejin.cn/post/7122071201068875789  |
 | 4          |  DVWA-Medium&High       |  https://juejin.cn/post/7125723811718103053  |
+|5   |  upload-labs|                |
 
 
 
