@@ -1,3 +1,6 @@
+- @author: Innks(bilibili)
+- 记录一下需要学习的书籍
+----
 # 《visual c++ 2013入门经典》
 
 ![捕获3.PNG](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/283157f9c2da48e58346cb1c6ad4c250~tplv-k3u1fbpfcp-watermark.image?)
