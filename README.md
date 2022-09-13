@@ -1,17 +1,6 @@
 靶场练习 && 漏洞复现
 - 关于靶场通关的一些记录；
 - 漏洞复现；
-## 靶场通关
-| ID         | 靶场名称/CVE       |   地址                                     | 
-|:----------:|:-------------     |:-------------------                       |
-| 1          |  pikachu靶场      |https://juejin.cn/post/7119111677383032846  |
-| 2          |  DVWA靶场-low      |  https://juejin.cn/post/7123844618092806152  |
-| 3          |  xss-labs-master靶场      |  https://juejin.cn/post/7122071201068875789  |
-| 4          |  DVWA-Medium&High       |  https://juejin.cn/post/7125723811718103053  |
-|5   |  upload-labs|    https://juejin.cn/post/7128017494593241096            |
-
-
-
 
 ## CVE && 利用 && EXP && 复现
 | 年份        | ID        | 靶场名称/CVE|   类型  | 
@@ -50,5 +39,17 @@
 |----------|------------- |------------------- |
 |     1      |  Django JSONField/HStoreField SQL注入(CVE-2019-14234)     |     https://juejin.cn/post/7086263713908391944  |
 |     2      |  ms17-010(永恒之蓝)复现      |  https://juejin.cn/post/7075975855909896228  |
+
+## 靶场通关
+| ID         | 靶场名称/CVE       |   地址                                     | 
+|:----------:|:-------------     |:-------------------                       |
+| 1          |  pikachu靶场      |https://juejin.cn/post/7119111677383032846  |
+| 2          |  DVWA靶场-low      |  https://juejin.cn/post/7123844618092806152  |
+| 3          |  xss-labs-master靶场      |  https://juejin.cn/post/7122071201068875789  |
+| 4          |  DVWA-Medium&High       |  https://juejin.cn/post/7125723811718103053  |
+|5   |  upload-labs|    https://juejin.cn/post/7128017494593241096            |
+
+
+
 
 
