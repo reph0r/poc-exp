@@ -4,6 +4,17 @@
 &emsp;&emsp;&emsp;In the actual penetration, after the early information collection, if there is an EXP with the vulnerability directly, it can often save a lot of time. So I collected a lot of EXPs, hoping to speed up efficiency in my work.
 
 ## Catalogue:
+1.支持mkdown写作文章；
+
+2.支持文章自定义分类；
+
+3.支持博客全局搜索功能；
+
+4.接入第三方平台valine,实现博客文章评论功能；
+
+5.使用七牛云的go-sdk实现图片上传功能；
+
+6.登录后台时，使用jwt随机生成的token辅助验证；
 
 ----
 
