@@ -68,6 +68,28 @@
 |     1      |  Django JSONField/HStoreField SQL注入(CVE-2019-14234)     |     https://juejin.cn/post/7086263713908391944  |
 |     2      |  ms17-010(永恒之蓝)复现      |  https://juejin.cn/post/7075975855909896228  |
 
+
+
+<details>
+<summary><font size="20" color="orange">漏洞复现</font></summary>
+<pre><code>
+
+## 漏洞复现
+| ID        | 名称/CVE|   地址  |
+|----------|------------- |------------------- |
+|     1      |  Django JSONField/HStoreField SQL注入(CVE-2019-14234)     |     https://juejin.cn/post/7086263713908391944  |
+|     2      |  ms17-010(永恒之蓝)复现      |  https://juejin.cn/post/7075975855909896228  |
+
+</code></pre>
+</details>
+
+
+
+
+
+
+
+
 ## 靶场通关
 | ID         | 靶场名称/CVE       |   地址                                     | 
 |:----------:|:-------------     |:-------------------                       |
