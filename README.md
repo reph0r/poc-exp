@@ -82,7 +82,7 @@
 
 
 <details>
-<summary><font size="20" color="orange">漏洞复现</font></summary>
+<summary><font size="20" color="orange">靶场、学习笔记</font></summary>
 <pre><code>
 
 ## 靶场笔记
