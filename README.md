@@ -31,7 +31,7 @@
 | ID        | 靶场名称/struts2|   地址  | 
 |:----------:|:------------- |:------------------- |
 |   1      |       struts2-045-exp    |    /struts2/struts2-045-exp        |
-|      2     |         |          |
+|      2     |     struts2-048-exp     |     /struts2/struts2-048-exp     |
 
 
 ## 漏洞复现
