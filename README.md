@@ -1,6 +1,11 @@
-靶场练习 && 漏洞复现
-- 关于靶场通关的一些记录；
-- 漏洞复现；
+#  Poc-Exp-Tools
+----
+
+掘金：https://juejin.cn/user/3153817156976791
+
+邮箱：reph0r@foxmail.com
+
+----
 
 ## CVE && 利用 && EXP && 复现
 | 年份        | ID        | 名称/CVE|   类型  | 
