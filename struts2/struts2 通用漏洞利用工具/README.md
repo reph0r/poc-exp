@@ -1,8 +1,8 @@
 # struts2 通用漏洞利用工具
 
-    > 利用工具包含如下 10 个漏洞
+    利用工具包含如下 10 个漏洞
 
-** Struts2_exp.jar **
+**Struts2_exp.jar**
 
     S2-DevMode
     S2-005
