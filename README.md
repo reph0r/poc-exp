@@ -74,7 +74,11 @@
 |      2     |     struts2-048-exp     |     /struts2/struts2-048-exp     |
 |      3    |     struts2 通用漏洞利用工具     |     /struts2/struts2 通用漏洞利用工具(使用范围：S2-DevMode、S2-005、S2-009、S2-016、S2-019、S2-032、S2-037、S2-045-1、S2-045-3、S2-046)     |
 
-
+## 五. WebLogic
+| ID        | 名称/WebLogic|   地址  | 
+|:----------:|:------------- |:------------------- |
+|   1      |       CVE-2018-2628 weblogic 反序列化漏洞    |    /WebLogic/CVE-2018-2628 weblogic 反序列化漏洞        |
+|      2     |         |          |
 
 
 
