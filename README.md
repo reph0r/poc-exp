@@ -30,8 +30,8 @@
 |    2      |     云悉指纹          |    https://www.yunsee.cn/       |
 |    3     |     whatcms        |    https://whatcms.org/    |
 |    4      |     Tidersec         |  http://finger.tidesec.net/     |
-|    ssl探测     |     myssl         |    https://myssl.com/ https://www.trustasia.com/    |
-|    ssl探测     |       |   https://www.trustasia.com/   |
+|    ssl探测     |     myssl         |    https://myssl.com/ ， https://www.trustasia.com/    |
+
 
 
 
