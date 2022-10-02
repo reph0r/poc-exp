@@ -42,6 +42,35 @@
 </code></pre>
 </details>
 
+
+
+<details>
+<summary><font size="20" color="orange">靶场、学习笔记</font></summary>
+<pre><code>
+
+- 科学上网
+     地址：https://github.com/wms521125/freevpn
+- 在线工具和资源大全
+### (一)信息探测收集
+#### (1).CMS识别
+| Name     |  address |
+|:-------------:|:------:|
+| 在线指纹识别         | http://whatweb.bugscaner.com/look/ |
+|    云悉指纹          |    https://www.yunsee.cn/       |
+|      whatcms           |    https://whatcms.org/    |
+|      Tidersec         |  http://finger.tidesec.net/     |
+|     ssl探测         |    https://myssl.com/ ， https://www.trustasia.com/    |
+
+
+
+
+- Web安全工具
+- 逆向分析工具
+- 逆向分析工具
+
+</code></pre>
+</details>
+
 ----
 
 ## 一. CVE
