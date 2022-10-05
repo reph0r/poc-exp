@@ -120,7 +120,13 @@
 
 
 ## 七. Django 
-
+| ID        | 名称/Django|   地址  | 
+|:----------:|:------------- |:------------------- |
+|   1      |        Jenkins 功能未授权访问导致的远程命令执行漏洞    |    /Jenkins/Jenkins 功能未授权访问导致的远程命令执行漏洞        |
+|      2     |    （CVE-2017-1000353）Jenkins-CI 远程代码执行漏洞   |    /Jenkins/（CVE-2017-1000353）Jenkins-CI 远程代码执行漏洞     |
+|      3     |    （CVE-2018-1000861）Jenkins 远程命令执行漏洞     |    /Jenkins/（CVE-2018-1000861）Jenkins 远程命令执行漏洞       |
+|      4     |    （CVE-2019-1003000）Jenkins 远程代码执行漏洞     |    /Jenkins/（CVE-2019-1003000）Jenkins 远程代码执行漏洞       |
+|      5     |    （CVE-2019-10475）反射xss     |    /Jenkins/（CVE-2019-10475）反射xss       |
 
 ## 八. Docker 
 | ID        | 名称/Docker|   地址  | 
@@ -130,7 +136,7 @@
 |      3     |    （CVE-2019-14271）Docker copy漏洞     |    /Docker/（CVE-2019-14271）Docker copy漏洞      |
 
 ## 九. Jenkins 
-| ID        | 名称/WebLogic|   地址  | 
+| ID        | 名称/Jenkins|   地址  | 
 |:----------:|:------------- |:------------------- |
 |   1      |        Jenkins 功能未授权访问导致的远程命令执行漏洞    |    /Jenkins/Jenkins 功能未授权访问导致的远程命令执行漏洞        |
 |      2     |    （CVE-2017-1000353）Jenkins-CI 远程代码执行漏洞   |    /Jenkins/（CVE-2017-1000353）Jenkins-CI 远程代码执行漏洞     |
