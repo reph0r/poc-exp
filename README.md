@@ -122,11 +122,11 @@
 ## 七. Django 
 | ID        | 名称/Django|   地址  | 
 |:----------:|:------------- |:------------------- |
-|   1      |        Jenkins 功能未授权访问导致的远程命令执行漏洞    |    /Jenkins/Jenkins 功能未授权访问导致的远程命令执行漏洞        |
-|      2     |    （CVE-2017-1000353）Jenkins-CI 远程代码执行漏洞   |    /Jenkins/（CVE-2017-1000353）Jenkins-CI 远程代码执行漏洞     |
-|      3     |    （CVE-2018-1000861）Jenkins 远程命令执行漏洞     |    /Jenkins/（CVE-2018-1000861）Jenkins 远程命令执行漏洞       |
-|      4     |    （CVE-2019-1003000）Jenkins 远程代码执行漏洞     |    /Jenkins/（CVE-2019-1003000）Jenkins 远程代码执行漏洞       |
-|      5     |    （CVE-2019-10475）反射xss     |    /Jenkins/（CVE-2019-10475）反射xss       |
+|   1      |        （CVE-2017-12794）Django debug page XSS漏洞    |    /Django/（CVE-2017-12794）Django debug page XSS漏洞         |
+|      2     |    （CVE-2018-14574）Django  2.0.8 任意URL跳转漏洞  |    /Django/（CVE-2018-14574）Django  2.0.8 任意URL跳转漏洞    |
+|      3     |    （CVE-2019-14234）Django JSONField sql注入漏洞     |    /Django/（CVE-2019-14234）Django JSONField sql注入漏洞       |
+|      4     |    （CVE-2020-7471）Django sql注入漏洞     |    /Django/（CVE-2020-7471）Django sql注入漏洞     |
+|      5     |    （CVE-2020-9402）Django Geo sql注入     |    /Django/（CVE-2020-9402）Django Geo sql注入      |
 
 ## 八. Docker 
 | ID        | 名称/Docker|   地址  | 
