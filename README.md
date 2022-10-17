@@ -30,6 +30,8 @@
 
 - 十三. shiro
 
+- 十四. Nginx
+
 - 漏洞复现
 
 - 靶场、学习笔记
@@ -213,7 +215,10 @@
 
 ## 十三. shiro
 
-
+## 十四. Nginx
+| ID        | 名称|   地址  |
+|----------|------------- |------------------- |
+|     1      |  Nginx 1.20.0 - Denial of Service (DOS)     |     Nginx/Nginx 1.20.0 - Denial of Service (DOS)  |
 
 <details>
 <summary><font size="20" color="orange">漏洞复现</font></summary>
