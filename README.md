@@ -108,7 +108,7 @@
 <summary><font size="20" color="orange">MS系列</font></summary>
 <pre><code>
 
-## 靶场笔记
+## windows提权
 | ID         | 靶场名称      |   地址                                     | 
 |:----------:|:-------------     |:-------------------                       |
 |     1      |  MS16-016      |         (/提权/windows/MS15-016 |
