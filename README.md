@@ -102,6 +102,23 @@
 |     6      |  CVE-2018-0833      |         (/提权/windows/CVE-2018-0833 |
 |     7      |  CVE-2018-8120      |         (/提权/windows/CVE-2018-8120 |
 |     8      |  CVE-2020-1472      |         (/提权/windows/CVE-2020-1472 |
+
+
+<details>
+<summary><font size="20" color="orange">MS系列</font></summary>
+<pre><code>
+
+## 靶场笔记
+| ID         | 靶场名称      |   地址                                     | 
+|:----------:|:-------------     |:-------------------                       |
+|     1      |  MS16-016      |         (/提权/windows/MS15-016 |
+|     2      |  MS16-032      |         (/提权/windows/MS16-032 |
+|     3      |  MS16-034      |         (/提权/windows/MS16-034 |
+|     4      |  MS16-075      |         (/提权/windows/MS16-075 |
+|     5      |  MS16-098      |         (/提权/windows/MS16-098 |
+|     6     |  MS16-111      |         (/提权/windows/MS16-111 |
+|     7      |  MS16-135      |         (/提权/windows/MS16-135 |
+|     8      |  MS17-010      |         (/提权/windows/MS17-010 |
 |     9      |  MS03-026      |         (/提权/windows/MS03-026 |
 |     10      |  MS05-039      |         (/提权/windows/MS05-039 |
 |     11      |  MS06-040      |         (/提权/windows/MS06-040 |
@@ -142,16 +159,9 @@
 |     48      |  MS15-077      |         (/提权/windows/MS15-077 |
 |     49      |  MS15-097      |         (/提权/windows/MS15-097 |
 |     50      |  MS16-014      |         (/提权/windows/MS16-014 |
-|     51      |  MS16-016      |         (/提权/windows/MS15-016 |
-|     52      |  MS16-032      |         (/提权/windows/MS16-032 |
-|     53      |  MS16-034      |         (/提权/windows/MS16-034 |
-|     54      |  MS16-075      |         (/提权/windows/MS16-075 |
-|     55      |  MS16-098      |         (/提权/windows/MS16-098 |
-|     56     |  MS16-111      |         (/提权/windows/MS16-111 |
-|     57      |  MS16-135      |         (/提权/windows/MS16-135 |
-|     58      |  MS17-010      |         (/提权/windows/MS17-010 |
-|     59      |  MS17-017      |         (/提权/windows/MS17-017 |
-
+|     51      |  MS17-017      |         (/提权/windows/MS17-017 |
+</code></pre>
+</details>
 
 
 
